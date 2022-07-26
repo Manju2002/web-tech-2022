@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <title>
+            Exp 1
+        </title>
+    </head>
+    <body>
+        <div id="resume" align="center">
+            <br> 
+            <b><h2>My Resume</h2></b> 
+            <br>
+        </div>
+       
+        <div id="intro">
+            <table cellspacing="50" border = "0" width="1200">
+                <tr>
+                    <td style="text-align: left">Manju S<br>URK20CS2054<br>CSE - AI<br>Ph:9025583711<br>Email:manjus20@karunya.edu.in</td>
+                    <td style="text-align: right">
+                        <img src = "C:\Users\DELL\Pictures\New folder (2)\DSC_0667.jpeg" width="15%" height="15%" alt="Image not found." align="right">
+                    </td>               
+                </tr>               
+            </table>         
+        </div>
+        <div>
+
+            <a target="_blank" href="http://www.karunya.edu">My college </a>
+            <a target="_blank" href="D:\WebTech\email.html">Email</a>
+            <a target="_blank" href="D:\WebTech\contact.html">Contact me</a>
+            <a target="_blank" href="D:\WebTech\Assign_1.html">Visit my Website</a>
+
+            <a target="_blank" href="">
+            <img src="https://tse1.mm.bing.net/th?id=OIP.Ua5AXhtGRgPuisZVmetclQHaFL&pid=Api&P=0&w=248&h=173" 
+            alt="Image not found." height="8%" width="5%">
+            </a>
+
+            <a target="_blank" href="">
+            <img src="https://blog.oxfordcollegeofmarketing.com/wp-content/uploads/2015/03/linkedin.jpg" 
+            alt="Image not found." height="9%" width="6%">
+            </a>
+            
+        </div>
+
+        <div id="objective">
+            <br><br>
+            <b>Career Objective</b><br>
+            A Career Objective or a Resume is essentially a heading statement that describes your professional goals in two or three sentences.<br>
+            Employers looking to hire an employee for a position tend to seek candidates that are driven enough to understand what they want.
+        </div>
+        <div id="marks_table">
+            <br><br>
+            <b>Academic Details</b>
+            <table border="1" cellspacing="0" cellpadding="4">
+                <tr>
+                    <th></th>
+                    <th>School / College</th>
+                    <th>Board / University</th>
+                    <th>Percentage of Marks</th>
+                    <th>Year of Passing</th>
+                </tr>
+                <tr>
+                    <th>B.Tech</th>
+                    <td>College</td>
+                    <td>University</td>
+                    <td>80%</td>
+                    <td>2024</td>
+                </tr>
+                <tr>
+                    <th>HSC</th>
+                    <td>School</td>
+                    <td>Board</td>
+                    <td>88.2%</td>
+                    <td>2020</td>
+                </tr>
+                <tr>
+                    <th>SSLC</th>
+                    <td>School</td>
+                    <td>Board</td>
+                    <td>70%</td>
+                    <td>2018</td>
+                </tr>
+            </table>
+        </div>
+        <div id="technical">
+            <br><br>
+            <b>Technical skills</b>
+            <ol>
+                <li>Data Structures</li>
+                <li>Web development</li>
+                <li>Python programming</li>
+                <li>Java programming</li>
+                <li>Android apps development</li>
+            </ol>
+            <br><br>
+            <b>Advanced Technology skills</b>
+            <ul>
+                <li>Data Science</li>
+                <li>Data Analysis</li>
+                <li>Machine Learning</li>
+            </ul>
+        </div>
+        <div id="internship">
+            <br><br>
+            <b>Internship completed</b><br>
+            Samsung App development
+        </div>
+        <div id="gallery">
+            <br><br>
+            <b>Photo Gallery</b>
+            <br><br>
+            &emsp;&emsp;&emsp;&emsp;
+            <img src="C:\Users\DELL\Pictures\New folder (2)\download.jpg"
+            alt="Image not found." height="30%" width="30%">
+        </div>
+        <br><br>
+        <a align="right" href="#"> Back to Top </a>
+        <a align="right" href="#gallery"> Gallery </a>
+        <a align="right" href="#internship"> Internship </a>
+        <a align="right" href="#technical"> Technical </a>
+        <a align="right" href="#marks_table"> Marks Table </a>
+        <a align="right" href="#objective"> Objective </a>
+        <a align="right" href="#intro"> Introduction </a>
+        <br><br>
+    </body>
+</html>
